@@ -1,0 +1,33 @@
+.main_content {
+    margin: 120px;
+}
+
+.main_content h2 {
+    font-size: 32px;
+    font-weight: 600;
+    margin-bottom: 24px;
+    text-align: center;
+}
+
+.main_content>p {
+    font-size: 16px;
+    font-weight: 400;
+    margin-bottom: 40px;
+    text-align: center;
+}
+
+.main_content .inner {
+    display: flex;
+}
+
+.main_content .inner .itm {
+    flex: 1;
+}
+
+.main_content .inner .itm p {
+    font-size: 14px;
+    font-weight: 400;
+    line-height: 24px;
+    margin-top: 32px;
+    text-align: center;
+}
